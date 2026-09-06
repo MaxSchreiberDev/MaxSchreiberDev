@@ -1,1 +1,1 @@
-![Image](image.png)
+![Image](CS50x.png)
